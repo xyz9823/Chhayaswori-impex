@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="64" fill="#0A0A0A"/>
+  <!-- Authentic Chhayaswori Impex Shoe Silhouette & Arch Wave -->
+  <path d="M136 250 C142 205, 158 176, 174 176 C188 176, 196 198, 224 198 C252 198, 274 182, 286 154 C292 140, 299 138, 309 147 L356 192 C372 206, 405 232, 428 242 C442 248, 446 264, 430 270 C395 278, 340 272, 278 250 C222 230, 176 238, 136 268 Z" stroke="#FFFFFF" stroke-width="14" stroke-linejoin="round" fill="none"/>
+  <path d="M132 276 C176 244, 232 242, 314 268" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <text x="256" y="356" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, sans-serif" font-weight="800" font-size="44" letter-spacing="4">CHHAYASWORI</text>
+  <line x1="112" y1="396" x2="184" y2="396" stroke="#FFFFFF" stroke-width="4"/>
+  <text x="256" y="404" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, sans-serif" font-weight="600" font-size="22" letter-spacing="10">IMPEX</text>
+  <line x1="328" y1="396" x2="400" y2="396" stroke="#FFFFFF" stroke-width="4"/>
+</svg>
